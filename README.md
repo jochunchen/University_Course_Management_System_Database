@@ -1,4 +1,4 @@
-# University-Course-Management-System-Database
+# University Course Management System Database
 This repository contains the SQL scripts for a project focused on managing and analyzing university course data. The scripts demonstrate a complete data pipeline, from raw data ingestion to a fully normalized and relational database schema.
 ## 1. Raw Data Ingestion (course_data_1nf_2023.sql)
 This initial script creates a denormalized table called course_data. This table serves as the starting point, containing all the raw data in a single, unorganized format. It is designed to simulate a simple data dump, with comprehensive information on courses, students, and their academic records all in one place. This script is essential for providing the foundation and source material for the subsequent data transformation steps.
